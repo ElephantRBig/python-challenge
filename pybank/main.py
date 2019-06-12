@@ -1,6 +1,6 @@
 import os
 import csv
-import pandas
+
 
 csv_file = os.path.join('pybank.csv')
 
