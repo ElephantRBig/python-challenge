@@ -44,7 +44,7 @@ for candidates in Candidates:
     else:
         Winner = Candidates[3]
 
-# Calculating the Percent Shares
+# Calculating the Percent Shares for each candidate
 CandidateA_PercentShare = CandidateA/Votes
 CandidateB_PercentShare = CandidateB/Votes
 CandidateC_PercentShare = CandidateC/Votes
